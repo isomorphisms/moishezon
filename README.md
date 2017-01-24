@@ -9,7 +9,20 @@ Using R’s S4 interface to define classes such as "Is it a scheme? OK, is it of
 ^ (May recode as R6 eventually. *I* want to learn S4 right now.)
 
 
-### eventually would like
+
+
+### near term goals
+
+- 
+- 
+- coding up finite groups should be a good start for structure-theorem type results that look non-obvious
+- should be able to build composite groups
+- 
+- sometimes descend deep into the nesting, sometimes mid-way
+
+
+
+#### eventually would like
 
 - an API for mathematical results
 - tests to see "is the thing I’m handing you Kähler?" (for example)
